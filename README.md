@@ -1,12 +1,13 @@
+# prework-study-guide
+A study guide for course pre-work
 # <Your-Project-Title>
 
 ## Description
 
 My motivation to build this project was to give stressed out bootcamp camp students a study guide for course pre work and to get a better understanding of the basics of web development. This project will give bootcamp students a guide to study for course pre work. I learned a lot about the basics of web development including the programming languages HTML, CSS, and Javascript.
 
-
-
 ## Installation
+
 N/A
 
 ## Usage
@@ -16,7 +17,11 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 ![alt text](assets/images/screenshot.png)
 
 ## Credits
+
 N/A
 
 ## License
+
 Please refer to the LICENSE in the repo.
+
+---
